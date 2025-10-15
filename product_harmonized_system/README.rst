@@ -34,9 +34,9 @@ Product Harmonized System Codes
 
 This module contains the objects for Harmonised System Codes (H.S.
 codes). The full nomenclature is available from the World Customs
-Organisation <`http://www.wcoomd.org/\\> <http://www.wcoomd.org/\>>`__.
-These codes are usually required on the Proforma invoices that are
-attached to the packages that are shipped abroad.
+Organisation <http://www.wcoomd.org/>. These codes are usually required
+on the Proforma invoices that are attached to the packages that are
+shipped abroad.
 
 This module also handles the local/national extensions to the H.S.
 codes. The import of the full nomenclature is not provided by this
@@ -97,10 +97,10 @@ Authors
 Contributors
 ------------
 
-- Alexis de Lattre, Akretion <alexis.delattre@akretion.com>
-- Luc De Meyer, Noviat <info@noviat.com>
-- Kumar Aberer, brain-tec AG <kumar.aberer@braintec-group.com>
-- Nhan Tran <nhant@trobz.com>
+-  Alexis de Lattre, Akretion <alexis.delattre@akretion.com>
+-  Luc De Meyer, Noviat <info@noviat.com>
+-  Kumar Aberer, brain-tec AG <kumar.aberer@braintec-group.com>
+-  Nhan Tran <nhant@trobz.com>
 
 Maintainers
 -----------
